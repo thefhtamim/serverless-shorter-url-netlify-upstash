@@ -6,7 +6,7 @@
  */
 ((vanillaJS) => {
     // Please, use your recaptcha site key
-    let googleRecaptchaSiteKey = '6Lf5BIoaAAAAAIGANnsvRam_b9dVwki8Sbub_hj6';
+    let googleRecaptchaSiteKey = '6Ler4N8cAAAAAHLtN5cbP9LrtC_hEjeKvXOoNULY';
     let shorterUrl = document.querySelector('#shortened-url');
 
     // Selectors
